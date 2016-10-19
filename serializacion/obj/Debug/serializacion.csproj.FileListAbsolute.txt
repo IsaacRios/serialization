@@ -1,0 +1,8 @@
+C:\Users\IPEREZ\Documents\Visual Studio 2013\Projects\serializacion\serializacion\bin\Debug\serializacion.exe
+C:\Users\IPEREZ\Documents\Visual Studio 2013\Projects\serializacion\serializacion\bin\Debug\serializacion.pdb
+C:\Users\IPEREZ\Documents\Visual Studio 2013\Projects\serializacion\serializacion\obj\Debug\serializacion.csprojResolveAssemblyReference.cache
+C:\Users\IPEREZ\Documents\Visual Studio 2013\Projects\serializacion\serializacion\obj\Debug\serializacion.Form1.resources
+C:\Users\IPEREZ\Documents\Visual Studio 2013\Projects\serializacion\serializacion\obj\Debug\serializacion.Properties.Resources.resources
+C:\Users\IPEREZ\Documents\Visual Studio 2013\Projects\serializacion\serializacion\obj\Debug\serializacion.csproj.GenerateResource.Cache
+C:\Users\IPEREZ\Documents\Visual Studio 2013\Projects\serializacion\serializacion\obj\Debug\serializacion.exe
+C:\Users\IPEREZ\Documents\Visual Studio 2013\Projects\serializacion\serializacion\obj\Debug\serializacion.pdb
